@@ -9,6 +9,10 @@
 - 프로젝트 데모영상 : https://youtu.be/8vljBnajuo8
 
 - 웹사이트 링크 : http://prscsl-sr.shop/
+
+- github : https://github.com/webtooon/WTlog
+
+- S.A : https://yuna99.tistory.com/2
 --------------
 ## 2. 프로젝트 제작 기간 & 팀원 소개
 - 제작기간
