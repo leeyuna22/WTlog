@@ -43,6 +43,12 @@
 - Filezila
 - Sourcetree
 -----------------
+## 5. 구현 기능
+1. 로그인, 회원가입
+2. 웹툰, 리뷰 등록
+3. 해당 웹툰 바로가기
+4. 리뷰 상세페이지 접속
+--------------
 ## 5. GitHub & S.A 주소
 - github : https://github.com/webtooon/WTlog
 
