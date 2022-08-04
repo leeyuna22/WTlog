@@ -19,5 +19,22 @@
  
   : 이유나 & 이윤재 & 서나연 & 박성수 & 마지우
 -----------------
-## 3. 핵심기능
-- 
+## 3. 사용 기술
+`Back-end`
+- Pymongo
+- Flask
+- Jinja
+- JWT
+
+`Front-end`
+- JQuery 3.5.1
+- HTML, CSS, Javascript
+- Bulma
+- Bootstrap
+
+`deploy`
+- AWS EC2 (Ubuntu 18.04 LTS)
+- Git Bash
+- Filezila
+- Sourcetree
+
