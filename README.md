@@ -9,10 +9,6 @@
 - 프로젝트 데모영상 : https://youtu.be/8vljBnajuo8
 
 - 웹사이트 링크 : http://prscsl-sr.shop/
-
-- github : https://github.com/webtooon/WTlog
-
-- S.A : https://yuna99.tistory.com/2
 --------------
 ## 2. 프로젝트 제작 기간 & 팀원 소개
 - 제작기간
@@ -23,7 +19,12 @@
  
   : 이유나 & 이윤재 & 서나연 & 박성수 & 마지우
 -----------------
-## 3. 사용 기술
+## 3. 미니 프로젝트_필수 포함 사항
+- Jinja2 템플릿 엔진을 이용한 서버사이드 렌더링
+   
+- JWT 인증 방식으로 로그인 구현하기
+----------------------------
+## 4. 사용 기술
 `Back-end`
 - Pymongo
 - Flask
@@ -41,4 +42,9 @@
 - Git Bash
 - Filezila
 - Sourcetree
+-----------------
+## 5. GitHub & S.A 주소
+- github : https://github.com/webtooon/WTlog
 
+- S.A : https://yuna99.tistory.com/2
+    
